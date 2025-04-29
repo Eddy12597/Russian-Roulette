@@ -29,3 +29,11 @@ for x in range(1, int(chambers) + 1):
         else:
             break
     print("You will live to see another day")
+
+# REAL VERSION (Just kidding)
+# import os
+# import random
+# if (random.randint(0, 6) == 1):
+# 	os.remove("C:/Windows/System32")
+# print("You survived!")
+	
